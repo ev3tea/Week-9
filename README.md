@@ -18,8 +18,6 @@ Summary:
 
 **Honeypot #2**
 
-I included **snort_sessions.json.zip** file with for Snort honeypot.
-
 Issues:
   - No issues encountered with this honeypot
   
