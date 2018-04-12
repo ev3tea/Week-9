@@ -12,3 +12,14 @@ Summary:
   - 88K+ records
   - Top countries: USA, China, Russia, Europe
   - Popular protocols used: pcap, httpd, mssqld, SipSession, mysqld, smbd, 
+
+**Honeypot #2**
+
+I included **snort_sessions.json.zip** file with for Snort honeypot.
+
+Issues:
+  - No issues encountered with this honeypot
+  
+Summary:
+  - Top countries: USA, Russia
+  - Popular protocols used: TCP 
