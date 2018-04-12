@@ -1,6 +1,8 @@
 # Week-9
 Week 9 Assignment
 
+![](https://i.imgur.com/7J7hVYo.png)
+
 **Honeypot #1**
 
 I included **sessions.json.zip** file with 88K+ records for Dinoaea honeypot.
@@ -10,8 +12,9 @@ Issues:
   
 Summary:
   - 88K+ records
-  - Top countries: USA, China, Russia, Europe
+  - Top countries: USA, Russia, China, Europe
   - Popular protocols used: pcap, httpd, mssqld, SipSession, mysqld, smbd, 
+  - Popular ports: 5060, 445, 3306, 23, 80
 
 **Honeypot #2**
 
